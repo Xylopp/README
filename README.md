@@ -3,7 +3,7 @@
 After five years doing social sciences (Social Anthropology for those who knows...), 
 I decided to shift my carreer and I'm currently building my foundations in IT, including networking, programming and electronics.
 My Github will present and document all of my work including hobbies and personal projects.
-Those includes little game projects, small python program or documentations about electronics project or my homelab.
+Those includes little game projects, small python programs, documentations about electronics project or my homelab.
 
 ## Different skills (Currently learning)
 <p>
