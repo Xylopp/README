@@ -19,6 +19,7 @@ Those includes little game projects, small python programs, documentations about
 
   ## List of my projects
   * [Bash Scripts](https://github.com/Xylopp/linux_scripts)
+  * [HTML-CSS](https://github.com/Xylopp/HTML-CSS)
 
 
   ### How to contact me ?
