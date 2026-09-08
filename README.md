@@ -24,3 +24,4 @@ Those includes little game projects, small python programs, documentations about
 
   ### How to contact me ?
   [![Octocat](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/bastien-xuereb-940b092a2/)
+  [![Protonmail](https://img.shields.io/badge/ProtonMail-%238B89CC.svg?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:Xuereb.bastien@protonmail.com")
